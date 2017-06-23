@@ -5,7 +5,3 @@ Itme3
 Item1
 Item2
 Itme3
-
-Item1
-Item2
-Itme3
